@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\pc1\\source\\repos\\employeeapplication\\employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\pc1\\source\\repos\\employeeapplication\\employeeapplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\pc1\\source\\repos\\employeeapplication\\employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A882261-3E5F-4470-B9D7-E049DA8F3B93}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Class1.cs",
+              "RelativeToolTip": "EmployeeApplication\\Class1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:32:04.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Form1.cs",
+              "RelativeToolTip": "EmployeeApplication\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:52:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC1\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:17:16.395Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
